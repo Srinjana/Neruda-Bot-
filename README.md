@@ -71,3 +71,5 @@ This script sends out `absurd_number` of tweets from the first line onwards of a
 ---
 
 The code can be stopped from runnig at anytime by a keyboard interrupt. `CTRL+C` on your console.
+
+[ Click here if you get stuck with an error ](https://www.digitalocean.com/community/tutorials/how-to-create-a-twitterbot-with-python-3-and-the-tweepy-library#:~:text=TweepError%3A%20%5B%7B'code'%3A%20187,line%20of%20your%20file%20verne.&text=except%20block%20to%20our%20code,the%20reason%20for%20the%20error.)
